@@ -1,4 +1,4 @@
-# How to Apply Infrastructure as Code Principles to OpenShift 4 Operationalizations
+# How to Apply Infrastructure as Code Principles to OpenShift 4 Operationalization
 
 ![GitOps Workflow](media/ops-workflow.png)
 
